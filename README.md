@@ -1,3 +1,3 @@
 # im_rich
 
-A new Flutter project.
+First app for the bootcamp.
